@@ -22,3 +22,9 @@
     margin: 5px;
     padding: 1%;
 }
+
+.conteudo figcaption{
+    padding: 3%;
+    font-size: 1rem;
+    text-align: center;
+}
