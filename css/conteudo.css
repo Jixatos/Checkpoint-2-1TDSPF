@@ -42,11 +42,21 @@
     flex-wrap: wrap;
     max-width: 80vw;
     margin: 0 auto;
+<<<<<<< HEAD
+    padding: 2% 0;
+}
+
+.conteudo img{
+    max-width: 40%;
+    display: block;
+    padding: 0 3%;
+=======
 }
 
 .conteudo img{
     max-width: 52%;
     display: block;
+>>>>>>> main
 }
 
 .conteudo > figure{
@@ -65,4 +75,8 @@
 h1{
     text-align: center;
     padding: 3%;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> main
