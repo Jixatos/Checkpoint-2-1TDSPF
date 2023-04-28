@@ -33,8 +33,6 @@
     font-weight: 700;
     text-align: center;
     padding-bottom: 5px;
-    
-    
 }
 
 .cabecalho a::after{
@@ -50,9 +48,5 @@
 
 .cabecalho a:hover::after{
     width: 100%;
-    padding: 10% 0;
 }
 
-.cabecalho a:hover{
-    text-decoration: underline;
-}
