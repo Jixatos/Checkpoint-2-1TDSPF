@@ -1,10 +1,6 @@
 @import url(./cabecalho.css);
 @import url(./conteudo.css);
-<<<<<<< HEAD
 @import url(./breakpoint.css);
-
-=======
->>>>>>> main
 
 * {
     margin: 0;
@@ -17,10 +13,7 @@ html{
     font-size: 80%;
 }
 
-<<<<<<< HEAD
 .rodape nav{
     display: flex;
     align-items: column;
 }
-=======
->>>>>>> main

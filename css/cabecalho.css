@@ -18,23 +18,20 @@
     width: 60%;
     height: 100%;
     flex-wrap: wrap;
-<<<<<<< HEAD
     padding: 4% 0;
 }
 
 .cabecalho a{
     position: relative;
-=======
 }
 
 .cabecalho a{
->>>>>>> main
+
     text-decoration: none;
     color: #fff;
     font-size: 2rem;
     font-weight: 700;
     text-align: center;
-<<<<<<< HEAD
     padding-bottom: 5px;
     
     
@@ -53,13 +50,9 @@
 
 .cabecalho a:hover::after{
     width: 100%;
-}
-
-=======
     padding: 10% 0;
 }
 
 .cabecalho a:hover{
     text-decoration: underline;
 }
->>>>>>> main
